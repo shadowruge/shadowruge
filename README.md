@@ -12,7 +12,8 @@
 - --Aprimorando o inglês<br/>
   --Linux-Dedian--<br/>
 - Estou procurando ajuda com ...<br/>
-  https://apoia.se/informaticainclusiva
+  ****https://associacaoculturalespacocarioca.000webhostapp.com/index.html
+  - aculturalespacocarioca@gmail.com<br/>
 - 📫 Como chegar até mim: ...<br/>
   @linusblack -twitter-<br/>
   e-mail zambelestar@gmail.com -gmail-
