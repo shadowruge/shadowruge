@@ -18,5 +18,5 @@ mysql**<br/>
   ![twitter](https://twitter.com/linuxblack)<br/>
   ![google mail](zambelestar@gmail.com)<br />
 - ⚡ Curiosidade: ...<br/>
-  0(º,º)0 Sou Autodidata. 0(º,º)0<br />
-**See you later
+  0(º,º)0 Sou Autodidata. 0(º,º)0<br /><br />
+**See you later**
