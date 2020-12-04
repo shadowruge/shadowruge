@@ -1,4 +1,4 @@
-###  Oi eu sou izaias... 👋
+ <H1>Oi eu sou izaias<H1><br /> 👋
 
 - Atualmente trabalhando.<br/>
  Auxiliar de serviços gerais.<br/>
@@ -19,4 +19,4 @@ mysql**<br/>
   ![google mail](zambelestar@gmail.com)<br />
 - ⚡ Curiosidade: ...<br/>
   0(º,º)0 Sou Autodidata. 0(º,º)0<br />
-***<H1>--See you later.--<H1>***
+**<H2>--See you later.--<H2>**
