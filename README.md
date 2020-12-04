@@ -1,4 +1,4 @@
- <H1>Oi eu sou izaias<H1><br /> 👋
+ <H1>Oi eu sou izaias.<H1>👋<br />
 
 - Atualmente trabalhando.<br/>
  Auxiliar de serviços gerais.<br/>
