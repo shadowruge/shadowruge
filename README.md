@@ -20,3 +20,4 @@ mysql**<br/>
 - ⚡ Curiosidade: ...<br/>
   0(º,º)0 Sou Autodidata. 0(º,º)0<br /><br />
 **See you later**
+ 
