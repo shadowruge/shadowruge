@@ -15,10 +15,10 @@ mysql**<br/>
 - Aprimorando Linux-Dedian Versão Buster.<br/>
 - Estou procurando ajuda.<br/>
  [Associação Cultural Espaço Carioca](https://associacaoculturalespacocarioca.000webhostapp.com/index.html).<br/>
- [Google mail](aculturalespacocarioca@gmail.com) Associação Cultural Espaço Carioca.<br/>
+ aculturalespacocarioca@gmail.com<br>
 - 📫 Como chegar até mim:<br/>
  [Twitter](https://twitter.com/linuxblack)<br/>
- [Google mail](zambelestar@gmail.com)<br />
+zambelestar@gmail.com
 - ⚡ Curiosidade: ...<br/>
   0(º,º)0 Sou Autodidata. 0(º,º)0<br /><br />
 **See you later**
