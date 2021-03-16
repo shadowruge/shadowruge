@@ -14,11 +14,11 @@ mysql**<br/>
 - Aprimorando o inglês.<br/>
 - Aprimorando Linux-Dedian Versão Buster.<br/>
 - Estou procurando ajuda.<br/>
- [site](https://associacaoculturalespacocarioca.000webhostapp.com/index.html) Associação Cultural Espaço Carioca<br/>
-- [google mail](aculturalespacocarioca@gmail.com) Associação Cultural Espaço Carioca<br/>
+ [Associação Cultural Espaço Carioca](https://associacaoculturalespacocarioca.000webhostapp.com/index.html).<br/>
+ [Google mail](aculturalespacocarioca@gmail.com) Associação Cultural Espaço Carioca.<br/>
 - 📫 Como chegar até mim:<br/>
-  [twitter](https://twitter.com/linuxblack)<br/>
-  [google mail](zambelestar@gmail.com)<br />
+ [Twitter](https://twitter.com/linuxblack)<br/>
+ [Google mail](zambelestar@gmail.com)<br />
 - ⚡ Curiosidade: ...<br/>
   0(º,º)0 Sou Autodidata. 0(º,º)0<br /><br />
 **See you later**
