@@ -10,8 +10,8 @@ css<br/>
 java<br/>
 python<br/>
 php<br/>
-mysql**<br/>
-react-native<br />
+mysql<br/>
+react-native**<br />
 - Aprimorando o inglês.<br/>
 - Aprimorando Linux-Dedian Versão Buster.<br/>
 - Estou procurando ajuda.<br/>
