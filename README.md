@@ -1,5 +1,4 @@
-![octocat](https://user-images.githubusercontent.com/20734038/101563722-8f83ca80-39a8-11eb-9433-952665d2ffab.png)
-
+![octocat](https://user-images.githubusercontent.com/20734038/116011030-1b655e80-a5f9-11eb-8fe3-8fbdc9fe66b0.png)
 # Oi eu sou izaias.👋<br />
 
 - Atualmente trabalhando.<br/>
