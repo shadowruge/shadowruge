@@ -1,12 +1,13 @@
 ![octocat](https://user-images.githubusercontent.com/20734038/116011030-1b655e80-a5f9-11eb-8fe3-8fbdc9fe66b0.png)
 # Oi eu sou izaias.👋<br />
 
+
 - Atualmente trabalhando.<br/>
  > Auxiliar de serviços gerais.<br/>
 - Atualmente estou aprendendo.<br/>
 **html<br/>
 css<br/>
-java<br/>
+javascript<br/>
 python<br/>
 php<br/>
 mysql<br/>
