@@ -22,9 +22,10 @@ react-native**<br />
 zambelestar@gmail.com
 - ⚡ Curiosidade: ...<br/>
   0(º,º)0 Sou Autodidata. 0(º,º)0<br /><br />
-**Nft's**<br />
-[Selva noturna](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/72431781081498532121727472726660150238611745678292086021387980731603434340353/)<br />
-[Paz](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/72431781081498532121727472726660150238611745678292086021387980729404411084801/)<br />
+
 **See you later**
 
- 
+ # Ajuda para estudos e laboratorio
+ ![openbox](https://user-images.githubusercontent.com/20734038/143509108-dff83ac0-aa78-4219-98a5-b76a91b1cd98.png)
+
+# Obrigado!
