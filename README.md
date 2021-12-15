@@ -1,17 +1,16 @@
+
 ![octocat](https://user-images.githubusercontent.com/20734038/116011030-1b655e80-a5f9-11eb-8fe3-8fbdc9fe66b0.png)
-# Oi eu sou izaias.👋<br />
+
+Oi eu sou izaias.👋
 
 
 - Atualmente trabalhando.<br/>
  > Auxiliar de serviços gerais.<br/>
+ 
 - Atualmente estou aprendendo.<br/>
-**html<br/>
-css<br/>
-javascript<br/>
-python<br/>
-php<br/>
-mysql<br/>
-react-native**<br />
+Javascript<br>
+Css<br>
+Html<br>
 - Aprimorando o inglês.<br/>
 - Aprimorando Linux-Dedian Versão Buster.<br/>
 - Estou procurando ajuda.<br/>
@@ -25,7 +24,8 @@ zambelestar@gmail.com
 
 **See you later**
 
- # Ajuda para estudos e laboratorio
+ Ajuda para estudos e laboratorio
+
  ![openbox](https://user-images.githubusercontent.com/20734038/143509108-dff83ac0-aa78-4219-98a5-b76a91b1cd98.png)
 
-# Obrigado!
+Obrigado!
