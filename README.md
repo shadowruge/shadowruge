@@ -1,12 +1,10 @@
 <div align="center">
- 
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=shadowruge&show_icons=true&theme=merko"/>
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=shadowruge&show_icons=true&theme=merko"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowruge&layout=compact&langs_count=7&theme=merko"/>
 </div>
  
 <div align="center">
 
- 
  ![certificado](https://user-images.githubusercontent.com/20734038/153689396-6d823e78-ee11-4943-a2e1-d4c66a7de090.png)
  ![3EED97A1](https://user-images.githubusercontent.com/20734038/153689710-581bf1d7-0b02-49ec-bd8a-711949ad6793.png)
  ![6D924A10](https://user-images.githubusercontent.com/20734038/153689851-9b630db3-10ea-487a-96a4-394ad2c0103f.png)
@@ -17,7 +15,8 @@
  ![77330611](https://user-images.githubusercontent.com/20734038/153690497-d2247c0e-b719-43be-b861-8a38c47567c2.png)
  ![2391B67B](https://user-images.githubusercontent.com/20734038/153690559-a83b51cb-0ffe-4ef0-b41a-7433fb482617.png)
  ![585F161E](https://user-images.githubusercontent.com/20734038/153690639-7f80b187-53e9-4c0e-b2c8-07cef29be9b4.png)
- </div>
+ 
+</div>
  
 - Oi eu sou izaias.👋
 
