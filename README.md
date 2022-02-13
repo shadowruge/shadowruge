@@ -2,20 +2,23 @@
 <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=shadowruge&show_icons=true&theme=merko"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowruge&layout=compact&langs_count=7&theme=merko"/>
 </div>
- 
-<div align="center">
 
- ![certificado](https://user-images.githubusercontent.com/20734038/153689396-6d823e78-ee11-4943-a2e1-d4c66a7de090.png)
- ![3EED97A1](https://user-images.githubusercontent.com/20734038/153689710-581bf1d7-0b02-49ec-bd8a-711949ad6793.png)
- ![6D924A10](https://user-images.githubusercontent.com/20734038/153689851-9b630db3-10ea-487a-96a4-394ad2c0103f.png)
- ![64C722E0](https://user-images.githubusercontent.com/20734038/153689914-bfdd9247-49e6-43e2-9b24-517ebdc69791.png)
- ![310B59DE](https://user-images.githubusercontent.com/20734038/153690064-80530d02-df37-442b-8702-ad65cc4ce7fe.png)
- ![E48C69A5](https://user-images.githubusercontent.com/20734038/153690157-7ccd9657-e5f5-4988-a787-85ac237c0efa.png)
- ![BC8EEF43](https://user-images.githubusercontent.com/20734038/153690430-83304940-9083-4765-b21e-c9109640aa54.png)
- ![77330611](https://user-images.githubusercontent.com/20734038/153690497-d2247c0e-b719-43be-b861-8a38c47567c2.png)
- ![2391B67B](https://user-images.githubusercontent.com/20734038/153690559-a83b51cb-0ffe-4ef0-b41a-7433fb482617.png)
- ![585F161E](https://user-images.githubusercontent.com/20734038/153690639-7f80b187-53e9-4c0e-b2c8-07cef29be9b4.png)
- 
+<h1>Certificados adiquiridos na plataforma dio.me</h1> 
+
+<div>
+
+![certif1](https://user-images.githubusercontent.com/20734038/153732592-b8fa8f7e-f174-478e-83ec-f661d568588b.png)
+![certif2](https://user-images.githubusercontent.com/20734038/153732603-79268479-3b36-4b22-9551-f02f621ba25d.png)
+![certf3](https://user-images.githubusercontent.com/20734038/153732612-60d383bd-fc41-4440-81dd-b79cda65d99c.png)
+![certf4](https://user-images.githubusercontent.com/20734038/153732621-ea804afa-756a-42c7-bfd3-855632a3899d.png)
+![certif5](https://user-images.githubusercontent.com/20734038/153732626-91e16b49-7795-45ae-b930-196e69a355b8.png)
+![certf6](https://user-images.githubusercontent.com/20734038/153732634-7f6cf8ff-fac8-4f9c-83eb-68b9efbfa90e.png)
+![certif7](https://user-images.githubusercontent.com/20734038/153732649-030341b5-1d70-4167-a1d1-6f7f344a1952.png)
+![certf8](https://user-images.githubusercontent.com/20734038/153732657-1d59a71d-f353-4111-9003-dbc5cc5e0130.png)
+![certf9](https://user-images.githubusercontent.com/20734038/153732660-8fce90ed-0670-4714-8298-cc8c055b161d.png)
+![certf10](https://user-images.githubusercontent.com/20734038/153732661-db32db54-1116-4e46-8b75-1116856986e1.png)
+![certf11](https://user-images.githubusercontent.com/20734038/153732662-90eeb3e0-3080-4690-9ec8-47463d54d0f4.png)
+
 </div>
  
 - Oi eu sou izaias.👋
