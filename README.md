@@ -1,51 +1,22 @@
-<div align="center">
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=shadowruge&show_icons=true&theme=merko"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowruge&layout=compact&langs_count=7&theme=merko"/>
-</div>
+<h1 align="center">Hi 👋, I'm izaias</h1>
+<h3 align="center">junior front-ende certificate digital inovation one</h3>
 
-<h1>Certificados adiquiridos na plataforma dio.me</h1> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadowruge&label=Profile%20views&color=0e75b6&style=flat" alt="shadowruge" /> </p>
 
-<div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadowruge" alt="shadowruge" /></a> </p>
 
-![certif1](https://user-images.githubusercontent.com/20734038/153732592-b8fa8f7e-f174-478e-83ec-f661d568588b.png)
-![certif2](https://user-images.githubusercontent.com/20734038/153732603-79268479-3b36-4b22-9551-f02f621ba25d.png)
-![certf3](https://user-images.githubusercontent.com/20734038/153732612-60d383bd-fc41-4440-81dd-b79cda65d99c.png)
-![certf4](https://user-images.githubusercontent.com/20734038/153732621-ea804afa-756a-42c7-bfd3-855632a3899d.png)
-![certif5](https://user-images.githubusercontent.com/20734038/153732626-91e16b49-7795-45ae-b930-196e69a355b8.png)
-![certf6](https://user-images.githubusercontent.com/20734038/153732634-7f6cf8ff-fac8-4f9c-83eb-68b9efbfa90e.png)
-![certif7](https://user-images.githubusercontent.com/20734038/153732649-030341b5-1d70-4167-a1d1-6f7f344a1952.png)
-![certf8](https://user-images.githubusercontent.com/20734038/153732657-1d59a71d-f353-4111-9003-dbc5cc5e0130.png)
-![certf9](https://user-images.githubusercontent.com/20734038/153732660-8fce90ed-0670-4714-8298-cc8c055b161d.png)
-![certf10](https://user-images.githubusercontent.com/20734038/153732661-db32db54-1116-4e46-8b75-1116856986e1.png)
-![certf11](https://user-images.githubusercontent.com/20734038/153732662-90eeb3e0-3080-4690-9ec8-47463d54d0f4.png)
+<p align="left"> <a href="https://twitter.com/@linuxblack" target="blank"><img src="https://img.shields.io/twitter/follow/@linuxblack?logo=twitter&style=for-the-badge" alt="@linuxblack" /></a> </p>
 
-</div>
- 
-- Oi eu sou izaias.👋
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@linuxblack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@linuxblack" height="30" width="40" /></a>
+</p>
 
-- Atualmente trabalhando.<br/>
- > Auxiliar de serviços gerais.<br/>
- 
-- Atualmente estou aprendendo.<br/>
-Javascript<br>
-Css<br>
-Html<br>
-- Aprimorando o inglês.<br/>
-- Aprimorando Linux-Dedian Versão Buster.<br/>
-- Estou procurando ajuda.<br/>
- [Associação Cultural Espaço Carioca](https://associacaoculturalespacocarioca.000webhostapp.com/index.html).<br/>
- aculturalespacocarioca@gmail.com<br>
-- 📫 Como chegar até mim:<br/>
- [Twitter](https://twitter.com/linuxblack)<br/>
-zambelestar@gmail.com
-- ⚡ Curiosidade: ...<br/>
-  0(º,º)0 Sou Autodidata. 0(º,º)0<br /><br />
-<div  align="center">
-**See you later**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
- Ajuda para estudos e laboratorio
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadowruge&show_icons=true&locale=en&layout=compact" alt="shadowruge" /></p>
 
- ![openbox](https://user-images.githubusercontent.com/20734038/143509108-dff83ac0-aa78-4219-98a5-b76a91b1cd98.png)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadowruge&show_icons=true&locale=en" alt="shadowruge" /></p>
 
-Obrigado!
- </div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadowruge&" alt="shadowruge" /></p>
