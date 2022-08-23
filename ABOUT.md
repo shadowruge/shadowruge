@@ -1,10 +1,10 @@
-# Hello! boys and girls
+# Hi! Boys and Girls (Non-binary and LGBTQIA+)
 
-# Olá! meninos e meninas
+# Olá! meninos e meninas(Não binarios e LGBTQIA+)
 
 # Support our idea!
 
 # Apoie nossa ideia!
 
- https://apoia.se/informaticainclusiva
+ [Apoia.se](https://apoia.se/informaticainclusiva)
 
