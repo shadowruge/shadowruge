@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm izaias</h1>
-<h3 align="center">front-ende certificate digital inovation one html css js</h3>
+<h3 align="center">front-end certificate digital inovation one html css js</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=shadowruge&label=Profile%20views&color=0e75b6&style=flat" alt="shadowruge" /> 
