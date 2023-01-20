@@ -23,8 +23,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadowruge&show_icons=true&locale=en&layout=compact" alt="shadowruge" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadowruge&show_icons=true&locale=en" alt="shadowruge" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadowruge&" alt="shadowruge" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadowruge&" alt="shadowruge" /></p>
